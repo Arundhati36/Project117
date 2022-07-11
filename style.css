@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#score_span{
+    color: blue;
+    float:left;
+    margin : 30px;
+}
+#timer_span{
+    color: blue;
+    float:right;
+    margin : 30px;
+}
